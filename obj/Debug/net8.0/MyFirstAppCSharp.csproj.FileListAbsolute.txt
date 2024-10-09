@@ -1,0 +1,14 @@
+/Users/stevenkarl/Code/MyFirstAppCSharp/bin/Debug/net8.0/MyFirstAppCSharp
+/Users/stevenkarl/Code/MyFirstAppCSharp/bin/Debug/net8.0/MyFirstAppCSharp.deps.json
+/Users/stevenkarl/Code/MyFirstAppCSharp/bin/Debug/net8.0/MyFirstAppCSharp.runtimeconfig.json
+/Users/stevenkarl/Code/MyFirstAppCSharp/bin/Debug/net8.0/MyFirstAppCSharp.dll
+/Users/stevenkarl/Code/MyFirstAppCSharp/bin/Debug/net8.0/MyFirstAppCSharp.pdb
+/Users/stevenkarl/Code/MyFirstAppCSharp/obj/Debug/net8.0/MyFirstAppCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenkarl/Code/MyFirstAppCSharp/obj/Debug/net8.0/MyFirstAppCSharp.AssemblyInfoInputs.cache
+/Users/stevenkarl/Code/MyFirstAppCSharp/obj/Debug/net8.0/MyFirstAppCSharp.AssemblyInfo.cs
+/Users/stevenkarl/Code/MyFirstAppCSharp/obj/Debug/net8.0/MyFirstAppCSharp.csproj.CoreCompileInputs.cache
+/Users/stevenkarl/Code/MyFirstAppCSharp/obj/Debug/net8.0/MyFirstAppCSharp.dll
+/Users/stevenkarl/Code/MyFirstAppCSharp/obj/Debug/net8.0/refint/MyFirstAppCSharp.dll
+/Users/stevenkarl/Code/MyFirstAppCSharp/obj/Debug/net8.0/MyFirstAppCSharp.pdb
+/Users/stevenkarl/Code/MyFirstAppCSharp/obj/Debug/net8.0/MyFirstAppCSharp.genruntimeconfig.cache
+/Users/stevenkarl/Code/MyFirstAppCSharp/obj/Debug/net8.0/ref/MyFirstAppCSharp.dll
